@@ -1,0 +1,19 @@
+http methods:- 
+
+get == it featches all data 
+post == it creates the new data 
+put == it updates the existing data 
+delete == it delete the existing data 
+
+to learn all http methods, there is tool or platform name as postman 
+the postman you can try all http methods 
+
+app.get()
+it takes 2 parameter 
+1st is route in string 
+2nd is arrow function 
+
+so in 2nd arrow function 
+again we ahve 2 parameter 
+1.req == getting data from user 
+2. res == sending data to user 
